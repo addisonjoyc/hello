@@ -15,7 +15,7 @@ int main(int argc, char **argv) {
   printf("Undeclared\n");
   
   printf("Kevin\n");
-  printf("Chemistry\n");
+  printf("Mechanical Engineering\n");
 
   return 0;
 }
