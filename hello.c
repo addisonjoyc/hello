@@ -13,9 +13,6 @@ int main(int argc, char **argv) {
 
   printf("Addison\n");
   printf("Undeclared\n");
-  
-  printf("Kevin\n");
-  printf("Mechanical Engineering\n");
 
   return 0;
 }
