@@ -12,6 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Addison\n");
+  printf("Undeclared\n");
 
   return 0;
 }
