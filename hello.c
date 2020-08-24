@@ -14,8 +14,7 @@ int main(int argc, char **argv) {
   printf("Addison\n");
   printf("Undeclared\n");
   
-  printf("Kevin\n");
-  printf("Chemistry\n");
+  
 
   return 0;
 }
